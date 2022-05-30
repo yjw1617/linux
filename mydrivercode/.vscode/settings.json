@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "wait.h": "c",
+        "poll.h": "c",
+        "ioctl.h": "c"
+    }
+}

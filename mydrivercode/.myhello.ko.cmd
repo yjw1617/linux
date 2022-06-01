@@ -1,0 +1,1 @@
+cmd_/home/makeru/Linux_4412/mydrivercode/myhello.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/makeru/Linux_4412/mydrivercode/myhello.ko /home/makeru/Linux_4412/mydrivercode/myhello.o /home/makeru/Linux_4412/mydrivercode/myhello.mod.o ;  true

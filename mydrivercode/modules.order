@@ -1,0 +1,5 @@
+kernel//home/makeru/Linux_4412/mydrivercode/myhello.ko
+kernel//home/makeru/Linux_4412/mydrivercode/xyz.ko
+kernel//home/makeru/Linux_4412/mydrivercode/testparam.ko
+kernel//home/makeru/Linux_4412/mydrivercode/mychar.ko
+kernel//home/makeru/Linux_4412/mydrivercode/multimychar.ko
